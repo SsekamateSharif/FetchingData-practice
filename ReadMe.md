@@ -17,3 +17,6 @@ A JavaScript project that fetches Pokémon data from the PokéAPI and displays t
 * Promises
 * Async/Await
 * PokéAPI
+
+## Author
+SSEKAMATE SHARIF 
